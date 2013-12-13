@@ -1,9 +1,11 @@
 Package: Exercise7SecondTry
 Type: Package
-Title: What the package does (short line)
+Title: This package offers functions adding 2 and 4 to any variable
 Version: 1.0
 Date: 2013-12-13
 Author: Paul Moritz Wiegmann, student ID 54165pwi
 Maintainer: Paul Moritz Wiegmann, wiegmann@rsm.nl
-Description: More about what it does (maybe more than one line)
+Description: This package contains two functions:
+addTwo(x) adds 2 to any given value
+addFour(x) adss 4 to any given value
 License: This package may only be used for grading purposes in the ERIM Programming-course (not that anybody would want to use it for something else...)

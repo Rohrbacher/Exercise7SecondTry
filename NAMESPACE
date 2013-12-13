@@ -1,1 +1,4 @@
-exportPattern("^[[:alpha:]]+")
+# student name: Paul Moritz Wiegmann
+# student ID: 54165pwi
+
+export(x)
