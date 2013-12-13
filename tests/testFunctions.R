@@ -1,7 +1,7 @@
 # student name: Paul Moritz Wiegmann
 # student ID: 54165pwi
 
-source('R/dunctions.R')
+source('R//functions.R')
 
 testAddTwo <- function(){
   x <- 2
