@@ -3,7 +3,7 @@ Type: Package
 Title: What the package does (short line)
 Version: 1.0
 Date: 2013-12-13
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
+Author: Paul Moritz Wiegmann, student ID 54165pwi
+Maintainer: Paul Moritz Wiegmann, wiegmann@rsm.nl
 Description: More about what it does (maybe more than one line)
-License: What license is it under?
+License: This package may only be used for grading purposes in the ERIM Programming-course (not that anybody would want to use it for something else...)
