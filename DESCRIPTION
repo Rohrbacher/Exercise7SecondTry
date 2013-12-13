@@ -6,6 +6,6 @@ Date: 2013-12-13
 Author: Paul Moritz Wiegmann, student ID 54165pwi
 Maintainer: Paul Moritz Wiegmann, wiegmann@rsm.nl
 Description: This package contains two functions:
-addTwo(x) adds 2 to any given value
-addFour(x) adss 4 to any given value
+Description: addTwo(x) adds 2 to any given value
+Description: addFour(x) adss 4 to any given value
 License: This package may only be used for grading purposes in the ERIM Programming-course (not that anybody would want to use it for something else...)
